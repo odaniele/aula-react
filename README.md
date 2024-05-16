@@ -3,6 +3,10 @@
 ## Objetivo:
 Criar um componente React que exiba uma mensagem de saudação personalizada com base no nome fornecido pelo usuário, utilizando um componente de entrada separado que recebe props.
 
+
+https://github.com/campinho-digital/aula-react/assets/108235987/d4034a63-e5ab-4ded-8f25-a5550df795b6
+
+
 ## Requisitos:
 Campo de Entrada como Componente Separado:
 
