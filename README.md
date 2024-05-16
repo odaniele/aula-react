@@ -18,8 +18,11 @@ O componente principal (App) deve utilizar o InputComponent para receber o nome 
 
 Passos:
 1 - Crie um novo projeto React usando create-react-app (ou qualquer método que preferir).
+
 2 - No componente principal (App.js), crie um estado para armazenar o nome digitado pelo usuário.
+
 3 - Crie um componente de entrada (InputComponent) que receba props para o valor e a função de mudança.
+
 4 - No componente principal (App), utilize o InputComponent e passe as props necessárias.
 
 Sua estrutura de arquivos deverá ser assim:
